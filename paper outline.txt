@@ -1,0 +1,14 @@
+DR - intro
+DR - detection +past work
+why ML approach
+past works
+Dataset
+ML model- NN
+NN Architecture:
+>No. of layers and nodes
+>Algo - BP
+>Setting up Weights
+>Learning Rate
+>Activation Functions
+>Result
+>Conclusion
